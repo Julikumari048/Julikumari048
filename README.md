@@ -17,7 +17,12 @@
 
 - 📫 How to reach me **kjuli9800@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1RJrz2S73bPMvBZpxxfnotw8YzrDSaek_NX-p2IDxdsI/edit?usp=sharing](https://docs.google.com/document/d/1RJrz2S73bPMvBZpxxfnotw8YzrDSaek_NX-p2IDxdsI/edit?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1HMDyBjFgpVsuz9zJ-pP4ZbCTpN8kldyF/view?usp=sharing]
+(https://drive.google.com/file/d/1HMDyBjFgpVsuz9zJ-pP4ZbCTpN8kldyF/view?usp=sharing)
+
+- 👨‍💻  All of my projects are available at - https://juliportfolio.netlify.app/
+
+- 📝 I regularly write articles on - https://medium.com/@kjuli9800
 
 - ⚡ Fun fact **I Love to explore the Coding problems**
 

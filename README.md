@@ -1,6 +1,6 @@
 <img width="100%" height="300px" align="center" src="https://image.shutterstock.com/image-vector/programming-web-banner-best-languages-600w-1676060566.jpg" />
 <h1>Hi 👋, my name is Juli Kumari</h2>
- <b font-size='50px'>Back-End Developer</b>
+ <b font-size='50px'>Backend Developer</b>
 
 
 <img border-radius="10px" align="right" height="220px" src="https://media4.giphy.com/media/ndM7oIOjaDQOhMKtF3/giphy.gif?cid=ecf05e47e475q3mx27994b8k2a4118cfpg4e4uea8d7pnmpf&rid=giphy.gif&ct=g" />

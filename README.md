@@ -17,8 +17,7 @@
 
 - 📫 How to reach me **kjuli9800@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1HMDyBjFgpVsuz9zJ-pP4ZbCTpN8kldyF/view?usp=sharing]
-(https://drive.google.com/file/d/1HMDyBjFgpVsuz9zJ-pP4ZbCTpN8kldyF/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1YVRcDlxs-5nD1qfCeuhzJHnre_HraOFJ/view?usp=sharing]
 
 - 👨‍💻  All of my projects are available at - https://juliportfolio.netlify.app/
 

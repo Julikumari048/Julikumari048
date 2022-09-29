@@ -4,7 +4,7 @@
 
 
 <img border-radius="10px" align="right" height="220px" src="https://media4.giphy.com/media/ndM7oIOjaDQOhMKtF3/giphy.gif?cid=ecf05e47e475q3mx27994b8k2a4118cfpg4e4uea8d7pnmpf&rid=giphy.gif&ct=g" />
-<h4>  &nbsp;&nbsp;&nbsp;&nbsp;Passionate Software Developer with web development technologies. Skilled, collaborative and attentive developer with a drive to develop the most relevant products. Always looking forward to learning something new to strengthen skills learned.</h4>
+<h4>  &nbsp;&nbsp;&nbsp;&nbsp;Passionate Software Developer with backend development technologies. Skilled, collaborative and attentive developer with a drive to develop the most relevant products. Always looking forward to learning something new to strengthen skills learned.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharmacs8853&label=Profile%20views&color=0e75b6&style=flat" alt="juli" /> </p>
 

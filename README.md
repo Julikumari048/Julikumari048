@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Spring-Boot, MySQL, Hybernet**
 
-- 💬 Ask me about **JAVA, MYSQL, Spring, Spring-Boot, JDBC, Hybernet, POSTMAN, DSA, GitHub, HTML, CSS, JS, AdvaceJS**
+- 💬 Ask me about **JAVA, MYSQL, Spring, Spring-Boot, JDBC, Hibernet, POSTMAN, DSA, GitHub, HTML, CSS, JS, AdvaceJS**
 
 - 📫 How to reach me **kjuli9800@gmail.com**
 

@@ -11,9 +11,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-- 🌱 I’m currently learning **Spring-Boot, MySQL, Hybernet**
+- 🌱 I’m currently learning **Spring-Boot, MySQL, Hibernate**
 
-- 💬 Ask me about **JAVA, MYSQL, Spring, Spring-Boot, JDBC, Hibernet, POSTMAN, DSA, GitHub, HTML, CSS, JS, AdvaceJS**
+- 💬 Ask me about **JAVA, MYSQL, Spring, Spring-Boot, JDBC, Hibernate, POSTMAN, DSA, GitHub, HTML, CSS, JS, AdvaceJS**
 
 - 📫 How to reach me **kjuli9800@gmail.com**
 

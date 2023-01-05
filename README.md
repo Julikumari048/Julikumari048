@@ -1,4 +1,6 @@
- <img width="100%" height="300px" align="center" src="https://image.shutterstock.com/image-vector/programming-web-banner-best-languages-600w-1676060566.jpg" />
+<!--  <img width="100%" height="300px" align="center" src="https://image.shutterstock.com/image-vector/programming-web-banner-best-languages-600w-1676060566.jpg" /> -->
+  <img width="100%" height="300px" align="center" src="https://blog.eduonix.com/wp-content/uploads/2015/02/java_11.png" />
+  
 <h1>Hi 👋, my name is Juli Kumari</h2>
  <b font-size='50px'>Backend Developer</b>
 

@@ -35,7 +35,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="center">
   
- [![Linkedin Badge](https://img.shields.io/badge/-juli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julikumari048//)](https://www.linkedin.com/in/julikumari048/)  [![Gmail Badge](https://img.shields.io/badge/-kjuli9800@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kjuli9800@gmail.com)](mailto:kjuli9800@gmail.com)  [![hackerrank Badge](https://img.shields.io/badge/-juli-green?style=flat-square&logo=hackerrank&logoColor=white&link=[https://www.linkedin.com/in/julikumari048](https://www.hackerrank.com/julikumari048)//)]([https://www.linkedin.com/in/julikumari048](https://www.hackerrank.com/julikumari048)/)
+ [![Linkedin Badge](https://img.shields.io/badge/-juli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julikumari048//)](https://www.linkedin.com/in/julikumari048/)  [![Gmail Badge](https://img.shields.io/badge/-kjuli9800@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kjuli9800@gmail.com)](mailto:kjuli9800@gmail.com)  [![hackerrank Badge](https://img.shields.io/badge/-juli-green?style=flat-square&logo=hackerrank&logoColor=white&link=(https://www.hackerrank.com/julikumari048)//)](https://www.hackerrank.com/julikumari048)
  </p>
 
 

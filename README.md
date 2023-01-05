@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Spring-Boot, MySQL, Hibernate**
 
-- 💬 Ask me about **JAVA, MYSQL, Spring, Spring-Boot, JDBC, Hibernate, POSTMAN, DSA, GitHub, HTML, CSS, JS, AdvaceJS**
+- 💬 Ask me about **JAVA, Spring, Spring-Boot, MYSQL**
 
 - 📫 How to reach me **kjuli9800@gmail.com**
 
@@ -25,12 +25,19 @@
 
 - ⚡ Fun fact **I Love to explore the Coding problems** 
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/julikumari048" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="julikumari048" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/julikumari048" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="julikumari048" height="30" width="40" /></a>
 
-</p>
+</p> -->
+
+<h3 align="left">Connect with me:</h3>
+<p align="center">
+  
+ [![Linkedin Badge](https://img.shields.io/badge/-juli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julikumari048//)](https://www.linkedin.com/in/julikumari048/)  [![Gmail Badge](https://img.shields.io/badge/-kjuli9800@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kjuli9800@gmail.com)](mailto:kjuli9800@gmail.com)  [![hackerrank Badge](https://img.shields.io/badge/-juli-green?style=flat-square&logo=hackerrank&logoColor=white&link=[https://www.linkedin.com/in/julikumari048](https://www.hackerrank.com/julikumari048)//)]([https://www.linkedin.com/in/julikumari048](https://www.hackerrank.com/julikumari048)/)
+ </p>
+
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
